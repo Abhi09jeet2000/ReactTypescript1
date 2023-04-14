@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Napoletana",
+    "description": "x... y.... z....",
+    "price": 12.76,
+    "specialDiscount": true
+  },
+  {
+    "id": 2,
+    "name": "Marinara",
+    "description": "x... y.... z....",
+    "price": 11.96
+  },
+  {
+    "id": 3,
+    "name": "Caprese",
+    "description": "x... y.... z....",
+    "price": 10.1,
+    "specialDiscount": true
+  },
+  {
+    "id": 4,
+    "name": "Margherita",
+    "description": "x... y.... z....",
+    "price": 7.54
+  }
+]

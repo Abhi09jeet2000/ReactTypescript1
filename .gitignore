@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+        .babelrc
+        .gitignore
+        package-lock.json
+        package.json
