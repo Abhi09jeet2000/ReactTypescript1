@@ -1,4 +1,5 @@
-# ReactTypescript1 with basic csss
+# ReactTypescript1 with basic css
+
 
 # 1 
 <img width="1512" alt="Screenshot 2023-04-14 at 11 53 32 AM" src="https://user-images.githubusercontent.com/65527851/231960606-14b05cfc-03d2-4a8c-8182-94fddbb624ab.png">
